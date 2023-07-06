@@ -19,6 +19,11 @@ $ npm install
 $ npm run start
 ```
 
+3. Для ознакомления с REST-API используйте swagger
+```shell
+http://localhost:8080/doc
+```
+
 Это запустит приложение в режиме разработки (development) на порту по умолчанию.
 
 [Документация NestJS](https://docs.nestjs.com/)
