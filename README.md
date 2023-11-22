@@ -25,12 +25,3 @@ http://localhost:8080/doc
 ```
 
 Это запустит приложение в режиме разработки (development) на порту по умолчанию.
-
-[Документация NestJS](https://docs.nestjs.com/)
-
-[Документация TypeORM](https://typeorm.io/)
-
-[Документация PostgreSQL](https://www.postgresql.org/docs/)
-
-[Документация Docker Compose](https://docs.docker.com/compose/)
-
